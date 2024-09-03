@@ -8,7 +8,7 @@
   
   <img src="https://github.com/omarzezo1/omarzezo1/blob/master/profile-img.png" align="right" width="25%"/>
 
-Passionate Frontend Developer with 4 years of hands-on experience in building and optimizing dynamic web applications. Proficient in modern front-end libraries and frameworks such as React.js and Next.js.
+Passionate Frontend Developer with hands-on experience in building and optimizing dynamic web applications. Proficient in modern front-end libraries and frameworks such as React.js and Next.js.
 
 
 - 🔍 I have 2 live apps: 
