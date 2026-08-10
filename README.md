@@ -50,16 +50,6 @@
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
   </div>
 
----
-
-## 📊 GitHub Streak
-
-<div align="center">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Omar-Zezo&theme=github-dark&hide_border=true" />
-</p>
-</div>
 
 ---
 
