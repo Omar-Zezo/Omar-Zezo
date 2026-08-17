@@ -89,7 +89,8 @@ Al-Oula Women's Charitable Association (Jeddah) — a Saudi non-profit with 60+ 
 `React.js` `JavaScript` `Tailwind` `HyperPay`
 
 ### 🎁 Flicker — a gifts & occasions e-commerce platform
-Flicker a gifts & occasions e-commerce platform where customers design custom prints for cards, mugs, t-shirts, and more. Built with React.js, featuring a product customization system, and order management and tracking.
+Flicker a gifts & occasions e-commerce platform where customers design custom prints for cards, mugs, t-shirts, and more. featuring a product customization system, and order management and tracking.
+`React.js` `JavaScript` `Tailwind`
 
 ### 🤝 Mawakeb Al-Ajer — Charity & Endowment Platform
 Mawakeb Al-Ajer, a Saudi non-profit initiative supporting sustainable social and community development. Features family support campaigns, a secondhand-goods marketplace, recycling collection service, and an endowment (waqf) program covering health, education, and relief projects.
