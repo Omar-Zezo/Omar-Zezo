@@ -13,6 +13,23 @@
 
 ---
 
+## 🧭 About Me
+
+Frontend Developer specializing in building scalable, high-performance web applications using React and Next.js.
+
+I have hands-on experience developing real-world projects, including dynamic page builders, admin dashboards, and e-commerce platforms, with a strong focus on performance, clean architecture, and user experience.
+
+My work involves integrating APIs, managing complex state using tools like Redux Toolkit and Zustand, and delivering responsive, SEO-friendly interfaces.
+
+I’m passionate about turning ideas into production-ready applications and continuously improving my skills to build modern, impactful web experiences.
+
+- 🔭 Currently building scalable and performant platforms for charities and e-commerce
+- 💳 Strong experience integrating and working with payment gateways, including HyperPay, Stripe, Paymob.
+- 🌐 Develop multilingual interfaces with seamless Arabic and English language support, including RTL/LTR layouts.
+- 🎓 Faculty of Arts and Humanities, Suez Univeristy
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages & Technologies**
@@ -53,12 +70,49 @@
 
 ---
 
-## 🎓 Education
+## 💼 Experience
 
-**🎓 Faculty of Arts and Humanities**  
-📍 Suez Univeristy | 🗓️ September 2014 - May 2018
+**Forntend Developer — Share Adawli** · *Jan 2025 – May 2025 · Nasr City, Cairo*
+Building scalable and performant platforms for charities.
 
 ---
+
+## 🚀 Featured Projects
+
+
+### 🕌 Beneficiaries System — AlBir Charity
+Al-Bir Society Jeddah — a Saudi charitable association founded in 1982, supporting orphans and low-income families across Jeddah. featuring a dynamic page builder that lets admins manage page content via configurable components, integrated online payment solutions, and online donation/membership features.
+`React.js` `JavaScript` `Tailwind` `HyperPay`
+
+### 🧩 Al-Oula — CMS & Page Builder
+Al-Oula Women's Charitable Association (Jeddah) — a Saudi non-profit with 60+ years of history. featuring a dynamic page builder that lets admins manage page content via configurable components, integrated online payment solutions, and online donation/volunteer registration.
+`React.js` `JavaScript` `Tailwind` `HyperPay`
+
+### 🎁 Flicker — a gifts & occasions e-commerce platform
+Flicker a gifts & occasions e-commerce platform where customers design custom prints for cards, mugs, t-shirts, and more. Built with React.js, featuring a product customization system, and order management and tracking.
+
+### 🤝 Mawakeb Al-Ajer — Charity & Endowment Platform
+Mawakeb Al-Ajer, a Saudi non-profit initiative supporting sustainable social and community development. Features family support campaigns, a secondhand-goods marketplace, recycling collection service, and an endowment (waqf) program covering health, education, and relief projects.
+`React.js` `JavaScript` `Tailwind`
+
+<details>
+<summary><b>See more projects</b></summary>
+<br>
+
+- **Adam Superfoods** — Adam's Superfoods is a website, blog, and online retail platform designed to offer a
+curated selection of healthy products.
+- **Admin Dashboard** — This project was built using Next.js 15 (App Router)  and Tailwind CSS with Shadcn,
+featuring a sleek and responsive design, providing a user-friendly interface for 
+managing various administrative tasks.
+- **Real Estate** — This project is a fully responsive website built using Next.js 15 and Tailwind CSS, 
+featuring smooth animations and an elegant Swiper.js slider.
+- **Investment** — This project was built using React.js and Tailwind CSS, featuring a sleek and
+responsive design, providing a user-friendly interface for managing various tasks.
+
+</details>
+
+---
+
 
 ## 📫 Let's Connect
 
@@ -73,4 +127,3 @@ _"Building scalable and high-performance web interfaces that create real user im
 
 </div>
 
----
