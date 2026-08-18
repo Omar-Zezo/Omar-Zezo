@@ -82,19 +82,19 @@ Building scalable and performant platforms for charities.
 
 ### 🕌 Beneficiaries System — AlBir Charity
 Al-Bir Society Jeddah — a Saudi charitable association founded in 1982, supporting orphans and low-income families across Jeddah. featuring a dynamic page builder that lets admins manage page content via configurable components, integrated online payment solutions, and online donation/membership features.
-`React.js` `JavaScript` `Tailwind` `HyperPay`
+`React.js` `Redux Toolkit` `JavaScript` `Tailwind` `HyperPay`
 
 ### 🧩 Al-Oula — CMS & Page Builder
 Al-Oula Women's Charitable Association (Jeddah) — a Saudi non-profit with 60+ years of history. featuring a dynamic page builder that lets admins manage page content via configurable components, integrated online payment solutions, and online donation/volunteer registration.
-`React.js` `JavaScript` `Tailwind` `HyperPay`
+`React.js` `Redux Toolkit` `JavaScript` `Tailwind` `HyperPay`
 
 ### 🎁 Flicker — a gifts & occasions e-commerce platform
 Flicker a gifts & occasions e-commerce platform where customers design custom prints for cards, mugs, t-shirts, and more. featuring a product customization system, and order management and tracking.
-`React.js` `JavaScript` `Tailwind`
+`React.js` `Redux Toolkit` `JavaScript` `Tailwind`
 
 ### 🤝 Mawakeb Al-Ajer — Charity & Endowment Platform
 Mawakeb Al-Ajer, a Saudi non-profit initiative supporting sustainable social and community development. Features family support campaigns, a secondhand-goods marketplace, recycling collection service, and an endowment (waqf) program covering health, education, and relief projects.
-`React.js` `JavaScript` `Tailwind`
+`React.js` `Redux Toolkit` `JavaScript` `Tailwind`
 
 <details>
 <summary><b>See more projects</b></summary>
